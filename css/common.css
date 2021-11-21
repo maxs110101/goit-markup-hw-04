@@ -203,8 +203,8 @@ img {
 .bottom-links-text {
   color: #ffffff;
   padding-top: 12px;
-  margin-bottom: 10px;
-  font-weight: 700px;
+  margin-bottom: 20px;
+  font-weight: 700;
   font-size: 14px;
   line-height: 16px;
   letter-spacing: 0.03em;
@@ -225,10 +225,10 @@ img {
   height: 100%;
   border-radius: 50%;
   background-color: rgba(255, 255, 255, 0.1);
-  color: var(--social-icons-color);
+  color: #ffffff;
 }
 .bottom-social-link:hover,
-.tbottomsocial-link:focus {
+.bottom-social-link:focus {
   background-color: var(--hover-focus-color);
   color: #ffffff;
 }
